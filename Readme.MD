@@ -43,8 +43,7 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 <br>
 
 <p align="center">
-<a href="www.linkedin.com/in/
-amit-kumar-singh2006" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a><!--
+<a href="www.linkedin.com/in/amit-kumar-singh2006" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a><!--
 -->&nbsp;&nbsp;<!--
 --><a href="https://x.com/mahakur03" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="40"/></a><!--
 -->&nbsp;&nbsp;<!--
