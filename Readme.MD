@@ -35,6 +35,27 @@ fun_fact: "I turn coffee into code! ☕➡️💻"
 
 <br>
 
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Connect With Me </b>
+
+<br>
+
+<p align="center">
+<a href="www.linkedin.com/in/
+amit-kumar-singh2006" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40"/></a><!--
+-->&nbsp;&nbsp;<!--
+--><a href="https://x.com/mahakur03" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" height="40"/></a><!--
+-->&nbsp;&nbsp;<!--
+--><a href="mailto:amitsingh23072003@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="40"/>
+</a>
+</p>
+
+💡 *Open to collaborations and interesting projects!*
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
